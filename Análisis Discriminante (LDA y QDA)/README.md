@@ -1,6 +1,6 @@
 # Comparacion de LDA y QDA sobre el dataset Wine
 
-Proyecto academico: implementacion y comparacion del Analisis Discriminante
+Implementacion y comparacion del Analisis Discriminante
 Lineal (LDA) y el Analisis Discriminante Cuadratico (QDA) utilizando el
 conjunto de datos Wine, sin tratamiento previo.
 
