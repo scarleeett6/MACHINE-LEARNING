@@ -8,7 +8,8 @@ conjunto de datos Wine, sin tratamiento previo.
 
 ```
 .
-├── LDA_QDA_Wine.ipynb   # Notebook completo con el analisis y los modelos
+├── Documento de investigación
+├──LDA_QDA_Wine.ipynb   # Notebook completo con el analisis y los modelos
 └── README.md
 ```
 
